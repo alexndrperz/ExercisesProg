@@ -1,0 +1,14 @@
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\bin\Debug\net8.0\FactoryExample.exe
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\bin\Debug\net8.0\FactoryExample.deps.json
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\bin\Debug\net8.0\FactoryExample.runtimeconfig.json
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\bin\Debug\net8.0\FactoryExample.dll
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\bin\Debug\net8.0\FactoryExample.pdb
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.AssemblyInfo.cs
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.dll
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\refint\FactoryExample.dll
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.pdb
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\FactoryExample.genruntimeconfig.cache
+C:\Users\TI\source\repos\FactoryExample\FactoryExample\obj\Debug\net8.0\ref\FactoryExample.dll

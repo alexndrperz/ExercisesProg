@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TI\\source\\repos\\FactoryExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\egerenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\egerenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\administrativeemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\administrativeemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\eoperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\eoperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|c:\\users\\ti\\source\\repos\\factoryexample\\factoryexample\\egerencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3771B19-96BD-4CFF-80B2-051DF4C92CB2}|FactoryExample\\FactoryExample.csproj|solutionrelative:factoryexample\\egerencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\Utilities.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\Utilities.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\Utilities.cs",
+              "RelativeToolTip": "FactoryExample\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:49:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\Program.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\Program.cs",
+              "RelativeToolTip": "FactoryExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:24:37.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EGerenciales.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EGerenciales.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\EGerenciales.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EGerenciales.cs",
+              "RelativeToolTip": "FactoryExample\\EGerenciales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:24:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EGerencial.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EGerencial.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\EGerencial.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EGerencial.cs",
+              "RelativeToolTip": "FactoryExample\\EGerencial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:52.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EOperativo.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EOperativo.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\EOperativo.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\EOperativo.cs",
+              "RelativeToolTip": "FactoryExample\\EOperativo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministrativeEmp.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\AdministrativeEmp.cs",
+              "RelativeDocumentMoniker": "FactoryExample\\AdministrativeEmp.cs",
+              "ToolTip": "C:\\Users\\TI\\source\\repos\\FactoryExample\\FactoryExample\\AdministrativeEmp.cs",
+              "RelativeToolTip": "FactoryExample\\AdministrativeEmp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:22:01.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
