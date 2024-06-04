@@ -1,0 +1,15 @@
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\bin\Debug\net8.0\ContinuousGestorEdction.exe
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\bin\Debug\net8.0\ContinuousGestorEdction.deps.json
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\bin\Debug\net8.0\ContinuousGestorEdction.runtimeconfig.json
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\bin\Debug\net8.0\ContinuousGestorEdction.dll
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\bin\Debug\net8.0\ContinuousGestorEdction.pdb
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.AssemblyInfo.cs
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.sourcelink.json
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.dll
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\refint\ContinuousGestorEdction.dll
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.pdb
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ContinuousGestorEdction.genruntimeconfig.cache
+C:\Users\TI\Desktop\ExercisesProg\ContinuousGestorEdction\ContinuousGestorEdction\obj\Debug\net8.0\ref\ContinuousGestorEdction.dll

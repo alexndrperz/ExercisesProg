@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\creador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\creador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\talleres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\talleres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\seminarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\seminarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\diplomado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\diplomado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|c:\\users\\ti\\desktop\\exercisesprog\\continuousgestoredction\\continuousgestoredction\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B25011-AFB3-44B2-B9F3-800360E924A6}|ContinuousGestorEdction\\ContinuousGestorEdction.csproj|solutionrelative:continuousgestoredction\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.txt",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\db.txt",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\db.txt",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\db.txt",
+              "RelativeToolTip": "ContinuousGestorEdction\\db.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-04T20:39:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creador.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Creador.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Creador.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Creador.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Creador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:38:49.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Utilities.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Utilities.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Utilities.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Utilities.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:33:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Diplomado.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Diplomado.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Diplomado.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Diplomado.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Diplomado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:28:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seminarios.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Seminarios.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Seminarios.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Seminarios.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Seminarios.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:27:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Talleres.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Talleres.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Talleres.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Talleres.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Talleres.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:27:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurso.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\ICurso.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\ICurso.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\ICurso.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\ICurso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:27:15.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Program.cs",
+              "RelativeDocumentMoniker": "ContinuousGestorEdction\\Program.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\ExercisesProg\\ContinuousGestorEdction\\ContinuousGestorEdction\\Program.cs",
+              "RelativeToolTip": "ContinuousGestorEdction\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:49:32.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
