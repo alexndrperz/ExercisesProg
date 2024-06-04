@@ -6,24 +6,22 @@ using System.Threading.Tasks;
 
 namespace FactoryExample
 {
-    internal class EGerencial : IEmpleado
+    internal class EAdministrativo : IEmpleado
     {
         public decimal percentBono { get ; set ; }
         public decimal salary { get ; set ; }
-        public decimal gananciaBono { get; set; }
         public string nombre { get ; set ; }
+        public decimal gananciaBono { get ; set ; }
 
-        public EGerencial()
+        public EAdministrativo()
         {
-            percentBono = 50;
+            percentBono = 25;
         }
-
-
         public string describir(bool paraTxt = false)
         {
             if (paraTxt)
             {
-                return $" El Empleado Gerencial de: \n Nombre: {nombre} \n Salario: {salary} \n recibio un bono de {gananciaBono}";
+                return $" El Empleado Administrativo de: \n Nombre: {nombre} \n Salario: {salary} \n recibio un bono de {gananciaBono}";
             }
             else
             {

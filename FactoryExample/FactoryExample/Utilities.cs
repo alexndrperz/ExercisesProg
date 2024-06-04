@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FactoryExample
 {
@@ -24,6 +25,16 @@ namespace FactoryExample
             Console.WriteLine();
             if (!successInp) opt = -1; 
             return opt -1;
+        }
+
+        public static IEmpleado pedirInputsAsignar(IEmpleado empleado)
+        {
+
+            Console.Write("Ingrese el nombre: ");
+            empleado.nombre = Console.ReadLine();
+            Console.Write("Ingrese su salario: ");
+            empleado.salary = decimal.Parse(Console.ReadLine());
+            return empleado;
         }
     }
 }

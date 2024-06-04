@@ -1,0 +1,10 @@
+
+ El Empleado Administrativo de: 
+ Nombre: Manuel 
+ Salario: 20000 
+ recibio un bono de 5000.00
+
+ El Empleado Operativo de: 
+ Nombre: Martin 
+ Salario: 12000 
+ recibio un bono de 1200.0
